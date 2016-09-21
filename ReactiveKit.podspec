@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "ReactiveKit"
-  s.version          = "3.0.0-beta5"
+  s.version          = "3.0.0"
   s.summary          = "A Swift Reactive Programming Framework"
   s.description      = "ReactiveKit is a Swift framework for reactive and functional reactive programming."
   s.homepage         = "https://github.com/ReactiveKit/ReactiveKit"
